@@ -1,0 +1,155 @@
+/* Custom Stylesheet */
+/**
+ * Use this file to override Materialize files so you can update
+ * the core Materialize files in the future
+ *
+ * Made By MaterializeCSS.com
+ */
+
+nav ul a,
+nav .brand-logo {
+  color: #444;
+}
+
+.responsive-img{
+  margin-top: 1%;
+  margin-left: 2%;
+}
+
+
+p {
+  line-height: 2rem;
+}
+
+.nav-wrapper {
+    padding: 0 50px;
+}
+
+.button-collapse {
+  color: #26a69a;
+}
+
+#sidenav-overlay {
+    margin-left: 300px;
+}
+
+.parallax-container {
+  min-height: 380px;
+  line-height: 0;
+  height: auto;
+  color: rgba(255,255,255,.9);
+}
+
+.section-intro {
+  height: 100%;
+  width: 100%;
+}
+
+.call {
+  margin-top: 2%;
+  margin-bottom: 1%;
+}
+
+.section-prenota {
+  height: 100%;
+  width: 100%;
+}
+
+
+@media only screen and (max-width : 992px) {
+  .parallax-container .section {
+    position: absolute;
+    top: 40%;
+  }
+  #index-banner .section {
+    top: 10%;
+  }
+}
+
+@media only screen and (max-width : 600px) {
+  #index-banner .section {
+    top: 0;
+  }
+  .nav-wrapper {
+    padding: 0 1px;
+  }
+
+  .responsive-img{
+  margin-top: 1%;
+  margin-left: 17%;
+}
+
+}
+
+.col-servizio {
+  margin-top: 3%;
+   margin-bottom: 6%
+}
+
+#servizio h5{
+  line-height: 1.2em;
+
+}
+h2 {
+  line-height: 2em;
+}
+
+.col-prenota h3{
+  margin-top: 2%;
+}
+
+.btn-registration {
+  width: 41%;
+  margin-left: 9%;
+  margin-top: 3%;
+  line-height: 100%;
+  text-align: 100%
+}
+
+.chisiamo-icon {
+  font-size: 5em;
+  margin-top:6%;
+}
+
+#chisiamo h5 {
+  line-height: 2em;
+}
+
+.btn-chisiamo {
+  width:100%;
+}
+
+#vetrina h5{
+  margin-top: 48%;
+}
+
+.section-vetrina {
+  height: 100%;
+  width: 100%;
+}
+
+#Video {
+  padding-left: 10px;
+}
+
+.icon-block {
+  padding: 0 15px;
+}
+.icon-block .material-icons {
+  font-size: inherit;
+}
+
+footer.page-footer {
+  margin: 0;
+  background-color: #080F0F;
+}
+
+.social-icon {
+font-size: 1.1em;
+  color: #fff;
+  padding: 0 25px;
+}
+
+.social-icon:hover {
+  color:#d50000;
+}

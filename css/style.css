@@ -71,6 +71,10 @@ p {
     top: 0;
   }
 
+  h1 {
+  font-size: 4em;
+  }
+
   .nav-wrapper {
     padding: 0 1px;
   }

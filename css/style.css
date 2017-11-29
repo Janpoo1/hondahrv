@@ -70,9 +70,7 @@ p {
   #index-banner .section {
     top: 0;
   }
-  h1 {
-  font-size: 3em;
-  }
+
   .nav-wrapper {
     padding: 0 1px;
   }
@@ -83,7 +81,7 @@ p {
 }
 
 .fotointro {
-  padding-right: 63em;
+  padding-right: 65em;
 }
 
 }

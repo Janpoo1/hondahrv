@@ -79,6 +79,10 @@ p {
   font-size: 3.7em;
   }
 
+  h4 {
+    font-size: 2em;
+  }
+
   .nav-wrapper {
     padding: 0 1px;
   }
